@@ -1,0 +1,9 @@
+MPAndroidChart
+Copyright 2014-2026 Philipp Jahoda
+
+This product includes software developed by Philipp Jahoda and the
+MPAndroidChart contributors (https://github.com/PhilJay/MPAndroidChart).
+
+Roboto Italic (mpchart/src/commonMain/composeResources/files/Roboto-Italic.ttf) is from Google Fonts,
+https://github.com/google/fonts/tree/main/ofl/roboto, licensed under the SIL Open Font License 1.1
+(Roboto-OFL.txt next to it).
